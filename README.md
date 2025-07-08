@@ -11,8 +11,7 @@ This repository contains various projects completed as part of my Applied Mathem
 
 * **Description**: This project analyzes data from Mr. Trash Wheel, an automatic trash collector in Baltimore, Maryland. It investigates trends in trash collection over 10 years (2014-2023) and evaluates the correlation between precipitation levels and the amount of trash collected annually. The project utilizes data wrangling, visualization, and statistical analysis techniques to provide insights into urban littering habits and the effectiveness of the Baltimore Healthy Harbor Initiative. The project also include recommended strategies to further this initiative.
 * **Technologies Used**: Python (NumPy, Pandas, Matplotlib, Seaborn, Statistics).
-* [cite_start]**Files**: `ydata_FinalProject_MrTrashWheel_Yasmina Traore.pdf` [ydata_FinalProject_MrTrashWheel_Yasmina Traore.pdf]
-* 
+* **File**: [`ydata_FinalProject_MrTrashWheel_Yasmina Traore.pdf`](https://github.com/whYT3a/Applied-Math-Projects/blob/main/ydata_FinalProject_MrTrashWheel_Yasmina%20Traore.pdf)
 
 #### 2. Universe Class Implementation (C++)
 
